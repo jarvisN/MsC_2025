@@ -9,12 +9,18 @@ Hi, my name is Non Titiwut! [welcome](https://user-images.githubusercontent.com/
 
 ---
 
-👨‍🏫 **About Me**  
-I’m a Robotics Trainer at **ALL Robotics**, specializing in teaching **autonomous vehicles**, **IoT**, and **AI applications**.  
-I also served as a Co-Researcher at **NECTEC**, where I developed real-time ICA systems, Ultra-Wideband (UWB) tracking, and Python-based AI analytics.  
-My academic background in **Applied Physics** and current pursuit of a Master's in **Data Science and Analytics** enables me to bridge the gap between hardware control, data analysis, and AI implementation.  
-I integrate my experience across robotics, machine learning, and backend development to deliver impactful and scalable tech solutions.
-🚀 I’ve also been actively involved in **VEX Robotics Competitions in Thailand** — both as a **VEX IQ Coach** and as a **Head Referee & Scorekeeper for VEX V5**. I’ve designed and taught courses such as:
+I’m a Robotics Trainer at ALL Robotics, specializing in teaching autonomous vehicles, IoT, and AI applications.
+Previously, I worked as a Co-Researcher at NECTEC, where I developed real-time ICA systems, Ultra-Wideband (UWB) tracking, and conducted AI-driven data analytics using Python and Node-RED.
+
+With a B.Sc. in Applied Physics and currently pursuing an M.Sc. in Data Science and Analytics at KMITL, I bridge the gap between hardware control, data analysis, and intelligent automation. I apply my interdisciplinary expertise to build scalable, real-world solutions across robotics and backend systems.
+
+🚀 I’ve also been actively involved in the VEX Robotics Competitions in Thailand — serving as both:
+
+Coach for VEX IQ teams
+
+Head Referee & Scorekeeper for VEX V5
+
+I’ve designed and taught hands-on courses that empower students with practical robotics and AI skills, including:
 - **VEX IQ STEAM Professional Curriculum**
 - **VEX V5 STEAM Professional Curriculum**
 ---
