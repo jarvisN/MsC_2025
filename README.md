@@ -1,9 +1,9 @@
-Hi, my name is Non Titiwut!  
-![welcome](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi, my name is Non Titiwut! [welcome](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
 ### 🤖 ROBOTICS TRAINER & 💻 DEVELOPER  
-🎓 Currently pursuing **M.Sc. in Data Science and Analytics** at **KMITL**  
+🎓 M.Sc. in **Data Science and Analytics** (Current), **KMITL**  
+🎓 B.Sc. in **Applied Physics**, **King Mongkut’s Institute of Technology Ladkrabang (KMITL)**  
 📍 Based in **Bangkok, Thailand**  
 📬 Contact: [non.ny1999@hotmail.com](mailto:non.ny1999@hotmail.com)
 
@@ -12,7 +12,8 @@ Hi, my name is Non Titiwut!
 👨‍🏫 **About Me**  
 I’m a Robotics Trainer at **RobotLAB Thailand**, specializing in teaching **autonomous vehicles**, **IoT**, and **AI applications**.  
 I also served as a Co-Researcher at **NECTEC**, where I developed real-time ICA systems, Ultra-Wideband (UWB) tracking, and Python-based AI analytics.  
-Currently pursuing my Master's degree in **Data Science and Analytics** at **KMITL**, I integrate my skills in robotics, machine learning, and full-stack development to create impactful and scalable innovations.
+My academic background in **Applied Physics** and current pursuit of a Master's in **Data Science and Analytics** enables me to bridge the gap between hardware control, data analysis, and AI implementation.  
+I integrate my experience across robotics, machine learning, and backend development to deliver impactful and scalable tech solutions.
 
 ---
 
