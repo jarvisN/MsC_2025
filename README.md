@@ -1,7 +1,7 @@
 Hi, my name is Non Titiwut! ![welcome](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-### 🤖 ROBOTICS TRAINER & 💻 DEVELOPER  
+### Robotics Trainer | Developer | Data Science Enthusiast
 🎓 M.Sc. in **Data Science and Analytics** (Current), **KMITL**  
 🎓 B.Sc. in **Applied Physics**, **King Mongkut’s Institute of Technology Ladkrabang (KMITL)**  
 📍 Based in **Bangkok, Thailand**  
