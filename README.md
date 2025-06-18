@@ -3,7 +3,7 @@ Hi, my name is Non Titiwut! ![welcome](https://user-images.githubusercontent.com
 
 ### 🤖 Robotics Trainer | 💻 Developer | 📊 Data Science Enthusiast
 
-🎓 M.Sc. in **Data Science and Analytics** *(Current)*, **KMITL** 🎓  
+🎓 M.Sc. in **Data Science and Analytics** *(Current)*, **King Mongkut’s Institute of Technology Ladkrabang (KMITL)** 🎓  
 🎓 B.Sc. in **Applied Physics**, **King Mongkut’s Institute of Technology Ladkrabang (KMITL)** 🧪  
 📍 Based in **Bangkok, Thailand** 🌏  
 📬 Contact: [non.ny1999@hotmail.com](mailto:non.ny1999@hotmail.com) 📩  
