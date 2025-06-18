@@ -14,7 +14,9 @@ I’m a Robotics Trainer at **RobotLAB Thailand**, specializing in teaching **au
 I also served as a Co-Researcher at **NECTEC**, where I developed real-time ICA systems, Ultra-Wideband (UWB) tracking, and Python-based AI analytics.  
 My academic background in **Applied Physics** and current pursuit of a Master's in **Data Science and Analytics** enables me to bridge the gap between hardware control, data analysis, and AI implementation.  
 I integrate my experience across robotics, machine learning, and backend development to deliver impactful and scalable tech solutions.
-
+🚀 I’ve also been actively involved in **VEX Robotics Competitions in Thailand** — both as a **VEX IQ Coach** and as a **Head Referee & Scorekeeper for VEX V5**. I’ve designed and taught courses such as:
+- **VEX IQ STEAM Professional Curriculum**
+- **VEX V5 STEAM Professional Curriculum**
 ---
 
 ### 💻 PROGRAMMING LANGUAGES
