@@ -10,7 +10,7 @@ Hi, my name is Non Titiwut! [welcome](https://user-images.githubusercontent.com/
 ---
 
 👨‍🏫 **About Me**  
-I’m a Robotics Trainer at **RobotLAB Thailand**, specializing in teaching **autonomous vehicles**, **IoT**, and **AI applications**.  
+I’m a Robotics Trainer at **ALL Robotics**, specializing in teaching **autonomous vehicles**, **IoT**, and **AI applications**.  
 I also served as a Co-Researcher at **NECTEC**, where I developed real-time ICA systems, Ultra-Wideband (UWB) tracking, and Python-based AI analytics.  
 My academic background in **Applied Physics** and current pursuit of a Master's in **Data Science and Analytics** enables me to bridge the gap between hardware control, data analysis, and AI implementation.  
 I integrate my experience across robotics, machine learning, and backend development to deliver impactful and scalable tech solutions.
