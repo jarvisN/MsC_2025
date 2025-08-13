@@ -1,4 +1,5 @@
-test = ["non","cream"]
+A = 10
+B = 20
+C = A + B
 
-print(test.index("non"))
-
+print("B")
